@@ -1,5 +1,5 @@
 layout: page
-title: "Teeeeest"
-permalink: /about/contact
+title: "Testseite"
+permalink: /about/contact/
 
 Hallo ich bin ein toller Test
